@@ -327,6 +327,13 @@ Supported Environment:
 Supported Environment:
 {{< label Huawei Cloud >}}
 
+#### Azure HDInsight on AKS
+
+[Website](https://learn.microsoft.com/en-us/azure/hdinsight-aks/flink/flink-overview)
+
+Supported Environment:
+{{< label Azure >}}
+
 #### Ververica Platform
 
 [Website](https://www.ververica.com/platform)
